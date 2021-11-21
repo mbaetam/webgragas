@@ -8,5 +8,17 @@ table  td {
     text-align: center;
     border: 2px solid black;
     margin-bottom: 14.5%;
-    
+    background-color: black;
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
+
+.white {
+    color: white;
 }
